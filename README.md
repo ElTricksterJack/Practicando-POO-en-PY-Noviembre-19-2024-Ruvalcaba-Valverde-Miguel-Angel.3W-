@@ -28,3 +28,5 @@
 ![image](https://github.com/user-attachments/assets/c06607e1-3c12-40c4-8735-71255a8861f0)
 ![image](https://github.com/user-attachments/assets/7256b0f7-4565-4c54-a245-67bd277c72c0)
 # ejemplo 7
+![image](https://github.com/user-attachments/assets/e0b57e5c-3975-4c5d-aff7-676df4afe564)
+![image](https://github.com/user-attachments/assets/fd338315-5c21-489e-abc9-bcd146ef7a74)

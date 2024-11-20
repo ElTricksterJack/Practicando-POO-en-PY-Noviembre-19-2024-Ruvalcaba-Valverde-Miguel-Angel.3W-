@@ -25,5 +25,6 @@
 ![image](https://github.com/user-attachments/assets/c71f80be-3488-4d8f-9973-06d34cbe05cb)
 * Cosas coregidas: abia 2 detalles inesarios, que quite, 1 el OBJETO=moto Y OBJETO=carro ya que uno estaba en la funsion y otro no, hasi que los puse en los 2, y tambien lo hise manual.
 # ejemplo 6
-
+![image](https://github.com/user-attachments/assets/c06607e1-3c12-40c4-8735-71255a8861f0)
+![image](https://github.com/user-attachments/assets/7256b0f7-4565-4c54-a245-67bd277c72c0)
 # ejemplo 7

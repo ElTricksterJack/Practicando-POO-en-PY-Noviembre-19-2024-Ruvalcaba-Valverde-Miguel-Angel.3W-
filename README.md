@@ -18,9 +18,12 @@
 ![image](https://github.com/user-attachments/assets/8fbcf829-b4a2-454a-a9ee-3f369700d44f)
 * Errores del codigo orignial: corepsion pero puso 2 veses // y abia un error ya que el - no lo considero como un - sino como otro un carapter.
 # ejemplo 4
-
+![image](https://github.com/user-attachments/assets/40ddf231-460b-4f3e-8bad-67ccd4cccb3d)
+![image](https://github.com/user-attachments/assets/85ec5b54-5d58-4fd8-9e05-70d7a8e4c85c)
 # ejemplo 5
-
+![image](https://github.com/user-attachments/assets/aa74ffdf-13fb-4689-aa4e-c4d9ea7bb71a)
+![image](https://github.com/user-attachments/assets/c71f80be-3488-4d8f-9973-06d34cbe05cb)
+* Cosas coregidas: abia 2 detalles inesarios, que quite, 1 el OBJETO=moto Y OBJETO=carro ya que uno estaba en la funsion y otro no, hasi que los puse en los 2, y tambien lo hise manual.
 # ejemplo 6
 
 # ejemplo 7
